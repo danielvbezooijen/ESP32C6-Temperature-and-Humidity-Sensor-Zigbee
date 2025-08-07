@@ -13,4 +13,4 @@ Before compiling and uploading, there are a few things that need to be configure
 When the code is uploaded, restart the ESP32C6, and the sensor will become visible in the 'Add Device' tab of ZHA.
 
 In my case, i am using a Seeed Studio XAOI ESP32C6 with an DHT22 Module. The DHT22 is connected via jumber cables to the ESP32. 
-The code is made in Arduino IDE 2.3.6 with the help of the exsisting Temperature Sensor example from the ESP32 library under the header Zigbee. With the use of a AI model the code is made to fit this purpose.
+The code is made in Arduino IDE 2.3.6 with the help of the exsisting Temperature Sensor example from the ESP32 library under the header Zigbee. With the use of an AI model the code is made to fit this purpose.
